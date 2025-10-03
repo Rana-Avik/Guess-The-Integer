@@ -4,7 +4,7 @@
 }
 body{
     color:aliceblue;
-    background-image: url("background.jpg");
+    background-image: url("/background.jpg");
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -441,4 +441,5 @@ main::after{
         bottom: 10px;
     }
 }
+
 
